@@ -1,2 +1,4 @@
 Exports/ filter=lfs diff=lfs merge=lfs -text
 database.ipynb filter=lfs diff=lfs merge=lfs -text
+Exportscleaned_data.csv0.part filter=lfs diff=lfs merge=lfs -text
+Exportscleaned_data.parquetpart.0.parquet filter=lfs diff=lfs merge=lfs -text
